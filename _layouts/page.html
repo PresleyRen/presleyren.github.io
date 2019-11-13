@@ -112,16 +112,16 @@ layout: default
                         {% endif %}
                         <!-- SNS Link -->
                         <ul class="list-inline">
-                            <!--{% if site.RSS %}-->
-                            <!--<li>-->
-                                <!--<a href="{{ "/feed.xml" | prepend: site.baseurl }}">-->
-                                    <!--<span class="fa-stack fa-lg">-->
-                                        <!--<i class="fa fa-circle fa-stack-2x"></i>-->
-                                        <!--<i class="fa fa-rss fa-stack-1x fa-inverse"></i>-->
-                                    <!--</span>-->
-                                <!--</a>-->
-                            <!--</li>-->
-                            <!--{% endif %}-->
+                            {% if site.RSS %}
+                            <li>
+                                <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             <!-- add jianshu add target = "_blank" to <a> by BY -->
                             {% if site.jianshu_username %}
                             <li>
@@ -133,12 +133,12 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                            {% if site.twitter_username %}
+                            {% if site.cn_blog_username %}
                             <li>
-                                <a href="https://twitter.com/{{ site.twitter_username }}">
+                                <a href="https://www.cnblogs.com/{{ site.cn_blog_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">博</i>
                                     </span>
                                 </a>
                             </li>
@@ -173,16 +173,6 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                            {% if site.cnblog_username %}
-                            <li>
-                                <a target="_blank" href="https://www.cnblogs.com/{{ site.cnblog_username }}">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa  fa-stack-1x fa-inverse">博</i>
-                                    </span>
-                                </a>
-                            </li>
-                            {% endif %}
                             {% if site.github_username %}
                             <li>
                                 <a target="_blank" href="https://github.com/{{ site.github_username }}">
@@ -193,6 +183,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+
                         </ul>
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
