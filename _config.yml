@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: ""
         href: ""
     },{
         title: "CN Blog",
         href: "https://www.cnblogs.com/presleyren"
-    },{
-        title: "Apple",
-        href: ""
-    },{
-        title: "Apple Developer",
-        href: ""
     }
 ]
