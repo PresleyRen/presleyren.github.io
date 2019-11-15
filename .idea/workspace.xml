@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db43b730-1441-41c0-9226-66a6a3b67ea4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-01-python面试.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +156,11 @@
             <path>
               <item name="presleyren.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="presleyren.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="presleyren.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="presleyren.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
