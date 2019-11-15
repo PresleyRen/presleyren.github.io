@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db43b730-1441-41c0-9226-66a6a3b67ea4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2016-12-21-Objective-C-Category.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-08-网络通信的整个流程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-08-路由和交换机工作原理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-10-Flask-SQLAlchemy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-10-SQLAlchemy增删改查一对多多对多.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-Flask-Migrate.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-Flask-Script.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-Flask中内置的Session.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-Flask中的request之先知道有这么个东西.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-Flask中的模板语言Jinja2及render_template的深度用法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-11-websocket工作原理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-12-Python网络爬虫第二弹《http和https协议》.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-12-jupyter环境安装.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-Celery-异步任务,定时任务,周期任务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-DjangoRESTframework基础：认证、权限、限制.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-Djangorestframework（视图类详解）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-JWT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-16-github与gitlab与git三个基佬的故事.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-16-github使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-16-gitlab与pycharm结合.md" beforeDir="false" />
-    </list>
+    <list default="true" id="db43b730-1441-41c0-9226-66a6a3b67ea4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,11 +154,6 @@
               <item name="presleyren.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="presleyren.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="presleyren.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presleyren.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -256,7 +230,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4299876" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.45724908" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
